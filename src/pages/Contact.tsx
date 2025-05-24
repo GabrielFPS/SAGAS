@@ -36,7 +36,7 @@ export default function Contact() {
           </div>
           <div className="mb-4">
             <label className="block mb-1 text-sm">Mensaje</label>
-            <textarea className="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white" rows="5" placeholder="Leave a comment..." />
+            <textarea className="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white" placeholder="Leave a comment..." />
           </div>
           <p className="text-xs text-gray-400 mb-4">
             By submitting this form you agree to our <a href="#" className="text-blue-400 underline">terms and conditions</a> and our <a href="#" className="text-blue-400 underline">privacy policy</a> which explains how we may collect, use and disclose your personal information including to third parties.
